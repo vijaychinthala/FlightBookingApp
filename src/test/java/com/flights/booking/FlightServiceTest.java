@@ -1,11 +1,10 @@
-package com.flights.search;
+package com.flights.booking;
 
 import static org.junit.Assert.*;
 import static org.mockito.Mockito.*;
 
 import java.util.*;
-
-import com.flights.booking.*;
+ 
 import com.flights.booking.beans.FlightSearchRequestVO;
 import com.flights.booking.domain.Flight;
 import com.google.inject.*; 
