@@ -4,9 +4,11 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.flights</groupId>
-  <artifactId>booking</artifactId>
+  <artifactId>FlightBooking</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging> 
+  <packaging>jar</packaging> 
+
+ 
 
   <properties>
     <jersey.version>2.16</jersey.version>
